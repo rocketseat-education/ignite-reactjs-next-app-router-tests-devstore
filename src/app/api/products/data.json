@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Moletom Never Stop Learning",
+      "slug": "moletom-never-stop-learning",
+      "price": 129,
+      "image": "/moletom-never-stop-learning.png",
+      "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Moletom AI Side",
+      "slug": "moletom-ai-side",
+      "price": 99,
+      "image": "/moletom-ai-side.png",
+      "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Camiseta DoWhile 2022",
+      "slug": "camiseta-dowhile-2022",
+      "price": 69,
+      "image": "/camiseta-dowhile-2022.png",
+      "description": "Camiseta fabricada com 100% de algodão.",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Moletom Java 2023",
+      "slug": "moletom-java-2023",
+      "price": 99,
+      "image": "/moletom-java.png",
+      "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Moletom IA p/ devs",
+      "slug": "moletom-ia-p-devs",
+      "price": 99,
+      "image": "/moletom-ia-p-devs.png",
+      "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+      "featured": false
+    }
+  ]
+}
